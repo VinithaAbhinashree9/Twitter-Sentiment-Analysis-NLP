@@ -173,7 +173,7 @@ A few things I learned building this:
 ##  About
 
 Built by **Vinitha** as part of an NLP learning project.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/vinitha88/) | Check out my other projects on [GitHub]()
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vinitha88/) | Check out my other projects on [GitHub](https://github.com/VinithaAbhinashree9)
 
 ---
 
